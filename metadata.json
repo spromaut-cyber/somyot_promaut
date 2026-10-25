@@ -1,0 +1,6 @@
+{
+  "name": "Prowebcreate — Futuristic Digital Agency",
+  "description": "บริการรับทำเว็บไซต์ ออกแบบและพัฒนาเว็บไซต์ครบวงจร สไตล์ Futuristic Digital Studio ผสาน Swiss Minimalism และ 3D Showcase",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
